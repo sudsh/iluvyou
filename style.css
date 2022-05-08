@@ -265,6 +265,10 @@ a:focus {
 	position: relative;
 }
 
+.content__title span {
+	text-shadow: 2px 2px 2px #cc0000;
+}
+
 .content__title-sub {
 	color: #d94c6c;
     font-size: 1.1vw;
